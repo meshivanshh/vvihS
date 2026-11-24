@@ -1,0 +1,6 @@
+{
+  "name": "Meridian — Travel Atlas & Trip Planner",
+  "description": "Curated travel destinations, editorial field guides, day-by-day itinerary builder, and tabular trip budget ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
